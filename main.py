@@ -1,0 +1,2 @@
+a = "privet"
+print(a)
